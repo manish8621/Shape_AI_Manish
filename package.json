@@ -1,0 +1,17 @@
+{
+  "name": "calcuator",
+  "version": "1.0.0",
+  "description": "My first node and expresss bmi calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "manikandan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "n": "^7.2.2",
+    "stable": "^0.1.8"
+  }
+}
